@@ -33,7 +33,7 @@
     "502": "Desculpe, o servidor parece estar temporariamente indisponível. Por favor, tente novamente mais tarde",
     "503": "Desculpe, o servidor não pode processar sua solicitação no momento, possivelmente devido a sobrecarga ou manutenção. Por favor, tente novamente mais tarde",
     "504": "Desculpe, o servidor não recebeu resposta do servidor upstream. Por favor, tente novamente mais tarde",
-    "AgentRuntimeError": "Erro de execução do modelo de linguagem Lobe, por favor, verifique as informações abaixo ou tente novamente",
+    "AgentRuntimeError": "Erro de execução do modelo de linguagem BrainHub, por favor, verifique as informações abaixo ou tente novamente",
     "AnthropicBizError": "Erro de negócios ao solicitar o serviço Anthropic AI. Por favor, verifique as informações abaixo ou tente novamente.",
     "AzureBizError": "Erro ao solicitar o serviço Azure AI, por favor, verifique as informações abaixo ou tente novamente",
     "BedrockBizError": "Erro ao solicitar o serviço Bedrock, por favor, verifique as informações abaixo ou tente novamente",
