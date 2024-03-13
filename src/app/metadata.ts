@@ -23,10 +23,10 @@ const metadata: Metadata = {
   description,
   icons: {
     apple:
-      'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/apple-touch-icon.png',
-    icon: 'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/favicon-32x32.png',
+      'https://i.imgur.com/9uXx7VW.png',
+    icon: 'https://pouch.jumpshare.com/preview/VE38OFD72lPLxY7gMq_VYDy097i70uxmk3HmaCYuhPBWAIDwtAfOddqFGosTfAWGmhLCIb3rEhobyEIBlRHgiuY1lrrIfEA_Fs4RQtAEx_I',
     shortcut:
-      'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/favicon.ico',
+      'https://pouch.jumpshare.com/preview/tr2SvJhA7G9DZB08U_lGX7S1yaaKPySfkYFsD4gn6GKVJKSMldO8o9ZO-OmWa-CgmhLCIb3rEhobyEIBlRHgisdttiHrMv-EuMOjqgFhyho',
   },
   manifest: noManifest ? undefined : '/manifest.json',
   metadataBase: new URL(SITE_URL),
@@ -36,13 +36,13 @@ const metadata: Metadata = {
       {
         alt: title,
         height: 360,
-        url: 'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/og-480x270.png',
+        url: 'https://i.imgur.com/9uXx7VW.png',
         width: 480,
       },
       {
         alt: title,
         height: 720,
-        url: 'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/og-960x540.png',
+        url: 'https://i.imgur.com/9uXx7VW.png',
         width: 960,
       },
     ],
@@ -61,7 +61,7 @@ const metadata: Metadata = {
     card: 'summary_large_image',
     description,
     images: [
-      'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/og-960x540.png',
+      'https://i.imgur.com/9uXx7VW.png',
     ],
     site: '@lobehub',
     title,
